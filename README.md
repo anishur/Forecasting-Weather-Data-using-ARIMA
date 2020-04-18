@@ -1,15 +1,15 @@
 <!-- Heading -->
 
-## The dataset is composed of telecommunications, weather, news, social networks and electricity data from the city of Milan and the Province of Trentino.
+### The dataset is composed of telecommunications, weather, news, social networks and electricity data from the city of Milan and the Province of Trentino.
 
-## Milan data collected by Agenzia Regionale per la Protezione dell'Ambiente 
+### Milan data collected by Agenzia Regionale per la Protezione dell'Ambiente 
 
-## The data are divided into two datasets called Legend dataset and Weather Phenomena
+### The data are divided into two datasets called Legend dataset and Weather Phenomena
 
-## The data is accumulated in 60min time-slots
+### The data is accumulated in 60min time-slots
 
 
-## I have selected a data set named mi_meteo_2001.csv from the Milano_WeatherFenomenia zip folder. The data set includes Date-Hour format from 2013-11-01 – 2013-12-31 and the temperature in Celsius ranges. I have used Python to analyse weather data to build up a time series forecast model. For data analysis and data processing, I have imported libraries like Numpy, Pandas, and the Matplotlib to make plots for data visualization.
+### I have selected a data set named mi_meteo_2001.csv from the Milano_WeatherFenomenia zip folder. The data set includes Date-Hour format from 2013-11-01 – 2013-12-31 and the temperature in Celsius ranges. I have used Python to analyse weather data to build up a time series forecast model. For data analysis and data processing, I have imported libraries like Numpy, Pandas, and the Matplotlib to make plots for data visualization.
 
 
 <!-- Links -->
