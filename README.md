@@ -9,7 +9,7 @@
 ###### The data is accumulated in 60min time-slots
 
 
-###### I have selected a data set named mi_meteo_2001.csv from the Milano_WeatherFenomenia zip folder. The data set includes Date-Hour format from 2013-11-01 – 2013-12-31 and the temperature in Celsius ranges. I have used Python to analyse weather data to build up a time series forecast model. For data analysis and data processing, I have imported libraries like Numpy, Pandas, and the Matplotlib to make plots for data visualization.
+###### I have selected a data set named mi_meteo_2001.csv from the Milano_WeatherFenomenia zip folder. The data set includes Date-Hour format from 2013-11-01 – 2013-12-31 and the temperature in Celsius ranges. I have used **Python** to analyse weather data to build up a **time series forecast model**. For **data analysis and data processing**, I have imported libraries like **Numpy**, **Pandas**, and the **Matplotlib** to make plots for data visualization.
 
 
 <!-- Links -->
